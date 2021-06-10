@@ -1,0 +1,36 @@
+
+body {
+    background-color: lightblue;
+}
+
+#skatla{
+    
+    display: flex; 
+    align-items: center; 
+    justify-content: center; 
+}
+
+#number{
+    height: 100px;
+    width: 300px;
+    text-align: center;
+}
+
+#gumb{
+    
+    display: flex; 
+    align-items: center; 
+    justify-content: center; 
+
+}
+
+#gumb1{
+    height: 100px;
+    width: 300px;
+}
+#odgovor{
+    display: flex; 
+    align-items: center; 
+    justify-content: center; 
+    color: white;
+}
